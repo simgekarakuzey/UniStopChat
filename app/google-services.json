@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434532477375",
+    "firebase_url": "https://chat-fa93f.firebaseio.com",
+    "project_id": "chat-fa93f",
+    "storage_bucket": "chat-fa93f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434532477375:android:427e99430c45abb76b190a",
+        "android_client_info": {
+          "package_name": "com.simge.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434532477375-kjia9e9si3mkur39e543muhpq7aq7ij2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpM-TwBH11hXQV75T2GkoRP1iClTSbZHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434532477375-kjia9e9si3mkur39e543muhpq7aq7ij2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
